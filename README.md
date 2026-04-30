@@ -2,7 +2,7 @@
 # Data Jobs Dashboard V2 w / Power BI
 
 
-![page1](/Data_Job_v2/Image/Page1.png)
+![page1](Page1.png)
 
 
 [View interactive dashboard on power BI service]
