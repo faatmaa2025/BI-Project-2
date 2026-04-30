@@ -44,7 +44,7 @@ This project put key Power BI features into practice.
     o	Buttons & Bookmarks: For streamlined navigation and managing report views (including Drill-Through).
 
 
-![page1](/Data_Job_v2/Image/Page1.png)
+![page1](Page1.png)
 
 
  
